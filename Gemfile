@@ -4,6 +4,7 @@ gem 'rails', '3.2.17'
 
 gem 'sqlite3'
 gem 'haml-rails'
+gem 'twitter-bootstrap-rails'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
